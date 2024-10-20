@@ -1,0 +1,14 @@
+D:\workspace\C#\TestSAL\TestSAL\bin\Debug\net8.0\TestSAL.exe
+D:\workspace\C#\TestSAL\TestSAL\bin\Debug\net8.0\TestSAL.deps.json
+D:\workspace\C#\TestSAL\TestSAL\bin\Debug\net8.0\TestSAL.runtimeconfig.json
+D:\workspace\C#\TestSAL\TestSAL\bin\Debug\net8.0\TestSAL.dll
+D:\workspace\C#\TestSAL\TestSAL\bin\Debug\net8.0\TestSAL.pdb
+D:\workspace\C#\TestSAL\TestSAL\obj\Debug\net8.0\TestSAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\C#\TestSAL\TestSAL\obj\Debug\net8.0\TestSAL.AssemblyInfoInputs.cache
+D:\workspace\C#\TestSAL\TestSAL\obj\Debug\net8.0\TestSAL.AssemblyInfo.cs
+D:\workspace\C#\TestSAL\TestSAL\obj\Debug\net8.0\TestSAL.csproj.CoreCompileInputs.cache
+D:\workspace\C#\TestSAL\TestSAL\obj\Debug\net8.0\TestSAL.dll
+D:\workspace\C#\TestSAL\TestSAL\obj\Debug\net8.0\refint\TestSAL.dll
+D:\workspace\C#\TestSAL\TestSAL\obj\Debug\net8.0\TestSAL.pdb
+D:\workspace\C#\TestSAL\TestSAL\obj\Debug\net8.0\TestSAL.genruntimeconfig.cache
+D:\workspace\C#\TestSAL\TestSAL\obj\Debug\net8.0\ref\TestSAL.dll
